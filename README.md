@@ -2,7 +2,7 @@
 
 
     Overview: Developed an interactive dashboard to visualize and analyze social media trends and engagement metrics.
-    Tools Used: Power BI, Python, Pandas, Matplotlib, SQL
+    Tools Used: Power BI
     Objective: To provide a comprehensive view of social media performance, helping stakeholders understand audience behavior and optimize content strategies.
     Key Features:
        1. Data Integration: Collected and integrated data from various social media platforms (e.g., Twitter, Facebook, Instagram).
